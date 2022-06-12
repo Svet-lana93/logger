@@ -1,3 +1,3 @@
-## My Greeter message
+## My Logger
 
-`example`
+`Hi!`
